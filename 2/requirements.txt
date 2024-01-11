@@ -1,6 +1,0 @@
-yargy
-gensim
-nltk
-scikit-learn
-tqdm
-dask[complete]
